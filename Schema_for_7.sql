@@ -93,7 +93,7 @@ TABLESPACE pg_default;
 ALTER TABLE public.employees
     OWNER to postgres;
 --------------------------
-
+NOTE:  This was created after initial six tables
 -- Table: public.retirement_titles
 
 -- DROP TABLE public.retirement_titles;
